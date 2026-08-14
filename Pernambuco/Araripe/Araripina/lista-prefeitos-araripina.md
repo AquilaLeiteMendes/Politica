@@ -64,4 +64,3 @@ Sinta-se à vontade para abrir issues ou pull requests com correções, fontes a
 ---
 
 **Licença**: Conteúdo baseado em domínio público / Wikipedia (CC BY-SA 4.0).  
-Repositório sugerido: `lista-prefeitos-araripina` ou similar.
